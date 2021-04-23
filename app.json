@@ -1,0 +1,12 @@
+{
+  "name": "cpf_email_placa",
+  "displayName": "cpf_email_placa",
+  "expo": {
+    "name": "cpf_email_placa",
+    "slug": "cpf_email_placa",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
